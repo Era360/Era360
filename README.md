@@ -55,4 +55,6 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Filter Swahili SMS by categories using machine learning.](https://blog.neurotech.africa/filter-swahili-sms-by-categories-using-machine-learning/)
+- [4 Popular Natural Language Processing Techniques](https://blog.neurotech.africa/4-popular-natural-language-processing-techniques/)
 <!-- BLOG-POST-LIST:END -->
