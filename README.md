@@ -58,3 +58,11 @@
 - [Filter Swahili SMS by categories using machine learning.](https://blog.neurotech.africa/filter-swahili-sms-by-categories-using-machine-learning/)
 - [4 Popular Natural Language Processing Techniques](https://blog.neurotech.africa/4-popular-natural-language-processing-techniques/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 😆 Pragramming Jokes :
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=merko" alt="Jokes Card" />
+
