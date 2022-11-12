@@ -45,6 +45,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Era360&layout=compact&theme=merko)
 
+---
+### 📊 Dev stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
