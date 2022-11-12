@@ -43,7 +43,7 @@
 
 ![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Era360&count_private=true&show_icons=true&theme=merko&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Era360&layout=compact&theme=merko)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Era360&layout=compact&theme=merko) -->
 
 ---
 ### 📊 Dev stats
