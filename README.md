@@ -43,11 +43,13 @@
 </div>
 
 ---
-
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Era360&theme=merko&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  
+![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Era360&count_private=true&show_icons=true&hide_border=true&border_radius=30&theme=merko&layout=compact)
 
-![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Era360&count_private=true&show_icons=true&theme=merko&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Era360&theme=merko&hide_border=true&border_radius=30&background=000000)](https://git.io/streak-stats)
+</div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Era360&layout=compact&theme=merko) -->
 
