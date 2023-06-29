@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning 
   `AI/ML (Natural Language Processing)`
 
-- 💬 Ask me about `React js`
+- 💬 Ask me about `React js` & `Next js`
 
 - ⚡ Fun fact: I hoop 🏀
 
