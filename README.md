@@ -77,6 +77,7 @@ CSS                27 hrs 5 mins   >------------------------   05.20 %
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [BibleGPT: Unveiling the Magic Behind Instant Bible Verses](https://blog.neurotech.africa/unveiling-the-magic-behind-instant-bible-verses/)
 - [Filter Swahili SMS by categories using machine learning.](https://blog.neurotech.africa/filter-swahili-sms-by-categories-using-machine-learning/)
 - [4 Popular Natural Language Processing Techniques](https://blog.neurotech.africa/4-popular-natural-language-processing-techniques/)
 <!-- BLOG-POST-LIST:END -->
