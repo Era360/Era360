@@ -46,8 +46,7 @@
 ### :fire: My Stats :
 <div align="center">
   
-<!-- ![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Era360&count_private=true&show_icons=true&hide_border=true&border_radius=30&theme=transparent&layout=compact)
--->
+![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Era360&count_private=true&show_icons=true&hide_border=true&border_radius=30&theme=transparent&layout=compact)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Era360&theme=transparent&hide_border=true&border_radius=30)](https://git.io/streak-stats)
 </div>
