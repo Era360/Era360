@@ -89,3 +89,5 @@ CSS                29 hrs 18 mins  >------------------------   03.39 %
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=merko" alt="Jokes Card" />
 
+[![An image of @era360's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/era360)](https://holopin.io/@era360)
+
