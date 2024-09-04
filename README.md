@@ -14,7 +14,7 @@
 </div>
 
 - 🌱 I’m currently learning 
-  `AI/ML (Natural Language Processing)`
+  `Rust Programming Language`
 
 - 💬 Ask me about `React js` & `Next js`
 
