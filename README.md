@@ -63,12 +63,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2022 - To: 20 September 2025
+From: 10 October 2022 - To: 22 September 2025
 
-Total Time: 2,936 hrs 22 mins
+Total Time: 2,936 hrs 55 mins
 
-TypeScript                 2,167 hrs 12 mins>>>>>>>>>>>>>>>>>>-------   73.81 %
-JavaScript                 220 hrs 23 mins >>-----------------------   07.51 %
+TypeScript                 2,167 hrs 45 mins>>>>>>>>>>>>>>>>>>-------   73.81 %
+JavaScript                 220 hrs 23 mins >>-----------------------   07.50 %
 Python                     208 hrs 19 mins >>-----------------------   07.09 %
 HTML                       67 hrs 5 mins   >------------------------   02.28 %
 JSON                       62 hrs 19 mins  >------------------------   02.12 %
